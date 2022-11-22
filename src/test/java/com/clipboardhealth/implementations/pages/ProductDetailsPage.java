@@ -2,6 +2,7 @@ package com.clipboardhealth.implementations.pages;
 
 import lombok.Getter;
 import lombok.experimental.Accessors;
+import net.thucydides.core.annotations.Step;
 import org.openqa.selenium.By;
 
 @Accessors(fluent = true)
