@@ -8,7 +8,7 @@
     <name>Clipboard Health Test Task</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>2.5.8</serenity.version>
+        <serenity.version>3.3.4</serenity.version>
         <serenity.maven.version>3.3.4</serenity.maven.version>
         <encoding>UTF-8</encoding>
         <tags/>
@@ -17,7 +17,7 @@
     <dependencies>
         <dependency>
             <groupId>net.serenity-bdd</groupId>
-            <artifactId>serenity-cucumber6</artifactId>
+            <artifactId>serenity-cucumber</artifactId>
             <version>${serenity.version}</version>
         </dependency>
         <dependency>

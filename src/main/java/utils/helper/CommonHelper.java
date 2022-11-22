@@ -49,7 +49,7 @@ public class CommonHelper {
     }
 
     public void waitForPageLoad(int timeOutInSeconds) {
-        new WebDriverWait(getDriver(), timeOutInSeconds)
+        new WebDriverWait(getDriver(), Duration.ofSeconds(timeOutInSeconds))
                 .until(webDriver -> ((JavascriptExecutor) webDriver)
                         .executeScript("return document.readyState")
                         .equals("complete"));

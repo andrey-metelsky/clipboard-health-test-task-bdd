@@ -1,5 +1,7 @@
 package com.clipboardhealth.stepdefinitions.frontend;
 
+import com.clipboardhealth.implementations.pages.BasePage;
+import com.clipboardhealth.implementations.pages.HomePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

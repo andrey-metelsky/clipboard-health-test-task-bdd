@@ -1,5 +1,6 @@
 package com.clipboardhealth.stepdefinitions.frontend;
 
+import com.clipboardhealth.implementations.pages.ProductDetailsPage;
 import io.cucumber.java.en.Then;
 import net.serenitybdd.core.steps.UIInteractionSteps;
 import net.thucydides.core.annotations.Steps;
