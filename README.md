@@ -20,7 +20,7 @@ Prerequisites :
 * IDE (Eclipse, IntelliJ, etc) https://www.jetbrains.com/idea/download/
 * Maven https://maven.apache.org/download.cgi
 
-1. Clone project from https://gitlab.com/metelsky.andrey/leaseplan-be
+1. Clone project from *https://github.com/andrey-metelsky/clipboard-health-test-task-bdd.git*
 2. Import dependencies (in IntelliJ IDEA: right-click on the *pom.xml*->Maven->Reload Project)
 
 ## How to run tests?
